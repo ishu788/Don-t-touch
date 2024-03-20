@@ -188,6 +188,7 @@ I am passionate about continuous learning and personal development, constantly s
 
 ## Have you used MITRE before? Describe how you would MITRE ATT&CK could help an organization?
 
+ ### Metre Adversarial tactics, technique and common knowledge.
 - Threat Intelligence: 
     - MITRE ATT&CK provides valuable insights into adversary tactics, techniques, and procedures (TTPs) used in cyberattacks. Organizations can leverage this information to enhance their threat intelligence capabilities, identify emerging threats, and prioritize defensive measures.
 
