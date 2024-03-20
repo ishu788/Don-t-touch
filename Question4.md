@@ -76,6 +76,9 @@ McAfee Endpoint Security: McAfee Endpoint Security is a comprehensive endpoint p
 unsual network logs,unusual process execution, suspicious activity , privielge escalation
 , high system memory,cpu usage, unusual login attempts.
 
+
+## PKI key security 
+
 Secure Physical Access: Ensure servers hosting PKI infrastructure are physically secure with restricted access.
 
 Implement Role-Based Access Control (RBAC): Limit administrative privileges and access to PKI components based on roles.
